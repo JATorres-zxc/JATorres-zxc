@@ -1,13 +1,13 @@
 # 👋 Hi, I'm John Angelo Torres  
 
 🎯 **Full-Stack Developer** | 💡 Passionate about building scalable, user-focused web apps  
-📍 Based in Philippines  
+📍 Based in the Philippines  
 
 ---
 
 ### 🚀 About Me
-- Experienced in **Vue.js, React, Python and Node.js**  
-- Built and maintained full-stack features at a tech company **HQzen**
+- Worked as a **Full Stack Developer** where I implemented and maintained features at **HQzen**
+- Experienced in **Vue.js, React, Python, and Node.js**  
 - Strong foundation in **RESTful APIs, debugging, and Agile workflows**  
 - Currently pursuing **BS Computer Science @ UP Cebu** (Thesis on AI & Machine Learning)  
 - Fluent in **English** and **Filipino**  
